@@ -23,5 +23,3 @@
             console.log("Oui, " + jour + "/" + mois + "/" + année + " est un jour travaillé"  );
         }
     }
-    
-    jourtravaille(new Date("May 1, 2020"));
