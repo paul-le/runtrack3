@@ -1,0 +1,19 @@
+#rangees{
+    padding: 3%;
+    border: 4px solid black;
+    width: 60%;
+}
+
+#rangees img{
+    width: 15%;
+}
+
+#melangees{
+    padding: 3%;
+    border: 4px solid black;
+    width: 60%;
+}
+
+#melangees img{
+    width: 15%;
+}
